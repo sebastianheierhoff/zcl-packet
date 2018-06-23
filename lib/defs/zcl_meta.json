@@ -1035,6 +1035,13 @@
                 ],
                 "dir":0}
         },
+        "hvacFanCtrl": {
+            "setFanMode":{
+                "params":[
+                    {"mode":"uint8"}
+                ],
+                "dir":0}
+        },
         "hvacThermostat": {
             "setpointRaiseLower":{
                 "params":[
