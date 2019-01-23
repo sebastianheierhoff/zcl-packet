@@ -1571,6 +1571,11 @@
                     {"intervals":"dynUint8"}
                 ],
                 "dir":1}
+        },
+        "manuSpecificCluster1": {
+            "cmdRsp1":{
+                "params":[],
+                "dir":0}
         }
     }
 }
