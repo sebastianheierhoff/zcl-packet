@@ -1572,11 +1572,21 @@
                 ],
                 "dir":1}
         },
-        "manuSpecificClusterAduroSmart": {   
-            "cmd0": {                
-                "params":[],            
+        "manuSpecificClusterAduroSmart": {
+            "cmd0": {
+                "params":[],
                 "dir":0
-            }               
-        } 
+            }
+        },
+        "manuSpecificClusterSalus": {
+            "cmd0": {
+                "params":[],
+                "dir":0
+            },
+            "cmdRsp0": {
+                "params":[],
+                "dir":1
+            }
+        }
     }
 }
